@@ -6,6 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
+    "tailwindcss": "^1.8.11",
     "vue": "^3.0.0-rc.1"
   },
   "devDependencies": {

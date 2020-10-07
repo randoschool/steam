@@ -13,4 +13,5 @@ export default {
     SecondaryNav,
   },
 };
-</script>
+</script>ˇ
+<style src="./assets/tailwind.css" />
