@@ -1,7 +1,7 @@
 <template>
   <div class="bg-navy-500 px-40 pt-2 pb-4 text-gray-500">
     <div class="flex items-center justify-end">
-      <div class="bg-green-steam p-3 text-white mx-1">
+      <div class="bg-green-steam px-3 py-1 text-white mx-1">
         <a href="#" class="pl-10 pr-3 download-btn">paigalda aur</a>
       </div>
       <a href="#" class="mx-1 hover:text-white">sisene</a>
